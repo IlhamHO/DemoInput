@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DemoInput</string>
+    <string name="txt_lbl_naam">Naam</string>
+    <string name="txt_lbl_email">E-mail</string>
+    <string name="hint_et_naam">tussen 5 en 20 karakters</string>
+    <string name="hint_et_email">john.doe@email.be</string>
+    <string name="txt_rb_vrouw">Vrouw</string>
+    <string name="text_rb_man">Man</string>
+    <string name="txt_rb_ander">Ander en beter</string>
+    <string name="text_lbl_geslacht">Geslacht</string>
+    <string name="txt_swi_akkoord">Ik ga akkoord met alle voorwaarden</string>
+    <string name="text_btn_bevestig">BEVESTIG</string>
+    <string name="text_lbl_geboortedatum">Geboortedatum</string>
+    <string name="txt_btn_datum">TOON KALENDER</string>
+</resources>
